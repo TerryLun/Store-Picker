@@ -60,4 +60,5 @@ commit implemented: get_current_location() and get_coordinate_data() - dd95545a4
 #### All team members
 Most of this project was done together as paired programming
 
-
+## Screenshots
+![Screenshots](screenshot.png "Screenshots")
